@@ -1,0 +1,124 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana;
+	font-size: 16px;
+}
+#logo{
+	width: 25%;
+	height: auto;
+	margin-top: 30px;
+}
+#contenedor{
+	background-color: white;
+	width: 60%;
+	margin: 0px auto;
+}
+header{
+	background-color: white;
+	width: 100%;
+	height: 200px;
+	text-align: center;
+}
+nav{
+	background-color: #FC0497;
+	width: 100%;
+	height: 50px;
+	font-size: 15px;
+	color: white;
+}
+.mp{
+	list-style: none;
+	padding: 0;
+	background-color: blue;
+	width: 100%;
+	max-width: 1000%;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+table {
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}
+.link{
+	text-decoration: none;
+	color: white;
+	font-size: 16px;
+}
+#libros{
+	width: 70%;
+	height: auto;
+	margin-top: 30px;
+}
+article{
+	width: 29%;
+	height: 450px;
+	float: left;
+	padding: 0px;
+	text-align: center;
+	margin: 20px;
+}
+h2{
+	font-size: 30px;
+	color: #0591F9;
+}
+#section1{
+	background-color: white;
+	width: 100%;
+	height: 300px;
+	float: left;
+	padding: 0px;
+}
+#section2{
+	background-color: #B9E1FF;
+	clear: both;
+	width: 100%;
+	height: 200px;
+	padding: 0px;
+}
+#imprenta{
+	width: 96%;
+	height: 150px;
+	padding: 0px;
+	text-align: center;
+	margin: 20px;
+}
+footer{
+	clear: both;
+	background-color: black;
+	width: 100%;
+	height: 80px;
+	color: white;
+	float: left;
+	margin-top: 10px;
+}
+#ws{
+	float: right;
+	width: 50px;
+	margin-top: 0px;
+	margin-right: 20px;
+}
+#contacto{
+	float: right;
+	width: 26%;
+	margin-top: 15px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFCD00;
+}
+#pie{
+	float: left;
+	width: 35%;
+	margin-top: 10px;
+	margin-left: 20px;
+}
